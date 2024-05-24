@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FLASH-MD by France King is alive*`
+ *DEXTER-MD by DEXTER is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("⚔ 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗫𝗧𝗘𝗥 ⚔");
-         repondre(" *Support ravi and chaky ! cyber dexter")
+      await   repondre("⚔ 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⚔");
+         repondre(" *I am Alive Now")
      }
  } else {
 
