@@ -17,7 +17,7 @@ zokou({ nomCom: 'ping',
     const { start} = new Date().getTime()
     return repondre('📌 *DEXTER-MD ♨ PING*\n ```' + 2000 + '``` *ms*') 
     const { end } = new Date().getTime()
-    await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
+    await zok.sendMessage('*Ping!*\n ```' + (end - start) + '``` *ms*')
   }
 )
 
